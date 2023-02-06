@@ -17,6 +17,7 @@
         width: 100px;
         height: 40px;
         cursor: pointer;
+        margin-top: 0.4rem;
     }
 
     .primary {
