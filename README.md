@@ -2,13 +2,16 @@
 
 This is a Feedback App created with Svelte to showcase Svelte main features.
 
-### In the project directory, run:
+> Note: This is a front-end only app, so no data is persisted
+
+### In the project directory, run
 
 `npm i`  
 `npm run dev`
 
-## **See the app in action:**
-https://svelte-feedback-app-eta.vercel.app/
+## Live Demo
+
+[https://svelte-feedback-app-eta.vercel.app/](https://svelte-feedback-app-eta.vercel.app/)
 
 Click [HERE](https://github.com/emanuelefavero/react-feedback-app) to view the same app created with React instead of Svelte
 
