@@ -130,6 +130,7 @@
         display: flex;
         align-items: center;
         justify-content: space-around;
+        flex-wrap: wrap;
         margin: 30px 0;
     }
 
@@ -139,6 +140,8 @@
         width: 50px;
         height: 50px;
         padding: 10px;
+        margin-bottom: 0.3rem;
+        margin-left: 1px;
         text-align: center;
         border-radius: 50%;
         font-size: 19px;
